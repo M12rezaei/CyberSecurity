@@ -1,6 +1,6 @@
 # CyberSecurity
 # CMP-X305 Cyber Security Portfolio
-## University of Roehampton | BSc Cyber Security
+## University of Roehampton
 
 This repository contains a collection of laboratory assessments and penetration testing reports completed as part of the **CMP-X305: Cyber Security** module. 
 
